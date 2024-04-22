@@ -12,5 +12,5 @@ https://nbviewer.org/github/obachiller/VDUOC_OSCARBACHILLER/blob/main/Dot%20Matr
 
 Spiral Plot
 
-https://github.com/obachiller/VDUOC_OSCARBACHILLER/blob/main/Spiral%20Plot.ipynb
+https://nbviewer.org/github/obachiller/VDUOC_OSCARBACHILLER/blob/main/Spiral%20Plot.ipynb
 
